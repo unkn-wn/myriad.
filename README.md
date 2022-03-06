@@ -1,3 +1,3 @@
 # myriad.
  bridging a myriad of people with peace.
-![logo](https://imgur.com/a/QrIXwgI)
+![logo](https://github.com/unkn-wn/myriad./blob/main/assets/myriadlogo_white.png)
