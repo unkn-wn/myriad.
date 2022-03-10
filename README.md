@@ -3,7 +3,7 @@
  bridging a myriad of people with peace.
 
 <img src="https://github.com/unkn-wn/myriad./blob/main/assets/myriad_yellow.png" alt="logo" width="500"/>
-![video link](https://youtu.be/-5HgASrIJ_4)
+https://youtu.be/-5HgASrIJ_4
 
 
 ## Inspiration
