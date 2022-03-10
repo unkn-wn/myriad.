@@ -1,6 +1,6 @@
 # myriad.
  bridging a myriad of people with peace.
-<img src="https://github.com/unkn-wn/myriad./blob/main/assets/myriad_yellow.png" alt="logo" width="900"/>
+<img src="https://github.com/unkn-wn/myriad./blob/main/assets/myriad_yellow.png" alt="logo" width="500"/>
 
 ## Inspiration
 Myriad, our application, is built largely inspired by our empathy for the ongoing military conflict currently sweeping through much of Ukraine. We strongly believe we need to help serve the displaced people in Ukraine. Since the dawn of the conflict, over 160,000 Ukrainians have been displaced, and destruction continues to raze the war torn land. Countless people are seeking refuge underground, and escaping to other countries, and in doing so it further devolves the stability of the region. We hope that with Myriad, they will be able to find peace, solace, and the feeling of stability that has been unlawfully robbed from them. The name Myriad itself was inspired by our hope for the war to end: myr, the Ukrainian word for peace. 
