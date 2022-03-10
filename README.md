@@ -1,9 +1,9 @@
 # myriad.
-<p align="center">
+
  bridging a myriad of people with peace.
 
 <img src="https://github.com/unkn-wn/myriad./blob/main/assets/myriad_yellow.png" alt="logo" width="500"/>
-</p>
+
 
 
 ## Inspiration
